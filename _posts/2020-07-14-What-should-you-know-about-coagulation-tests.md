@@ -5,7 +5,7 @@ title: What should you know about coagulation tests
 
 Here are the things you should know when conducting coagulation tests 
 
-* Difficulty in obtaining a venous sample, resulting in hemolysis or small dots in sample
+* Difficulty in obtaining a venous sample, resulting in hemolysis or small clot in sample
 
 * The sample should be centrifugated for 15 mins at 3000 RPM to get poor plasma of platelets
 

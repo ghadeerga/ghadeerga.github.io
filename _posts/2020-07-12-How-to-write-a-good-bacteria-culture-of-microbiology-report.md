@@ -14,4 +14,4 @@ we differentiate by the number of colonies
 
 4. No salmonella and shigela isolated: in stool sample for adult
 
-5. No Salmonella and Shigela and Enteropathogenic Escherichia coli  isolated: in stool sample for children
+5. No Salmonella, Shigela and Enteropathogenic Escherichia coli  isolated: in stool sample for children
