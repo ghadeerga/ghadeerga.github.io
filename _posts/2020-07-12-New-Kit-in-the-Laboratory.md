@@ -5,7 +5,7 @@ title: When Getting New Kits in the Laboratory
 
 Incorrect diagnosis may danger patients life. Always,  make sure that all controls are in the target result and always do the calibration correctly
 
-when you ever open a new reagent (kit) or when your result of control start to be out of the target 
+Do the calibration whenever you open a new reagent (kit) or when your result of control start to be out of the target 
 
 Controls materials work in the same manner as patient sample to be sure that the accuracy reagent still stable for patient result.
 

@@ -13,4 +13,5 @@ We usually prepare N.S in the laboratory for several uses. And, we should make s
 3.Centerfuge for 1 mines 
 
 If the N.S suspension is clear: accurate preparation.
+
 If the N.S suspension is hemolysis: defect preparation.
