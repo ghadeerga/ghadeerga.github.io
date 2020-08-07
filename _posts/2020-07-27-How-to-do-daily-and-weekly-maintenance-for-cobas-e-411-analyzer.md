@@ -133,10 +133,6 @@ Contamination in the sipper system may degrade sample accuracy and precision, or
 
 6. Close the sipper shield.
 
-
-<div style="text-align:center"><img src="/images/cobas_e_411_analyzer8.jpg" /></div>
-
-
 7. Choose Utility > Maintenance
 
 8. Select Maintenance from the Maintenance Type list 
@@ -145,8 +141,8 @@ Contamination in the sipper system may degrade sample accuracy and precision, or
 
 10. Choose Select to open the Liquid Flow Cleaning window
 
-
-<div style="text-align:center"><img src="/images/cobas_e_411_analyzer9.jpg" /></div>
+    
+    <div style="text-align:center"><img src="/images/cobas_e_411_analyzer9.jpg" /></div>
 
 
 
