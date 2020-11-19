@@ -6,7 +6,7 @@ title: How to Perform Cobas e 411 Analyzer Daily and Weekly Maintenance Procedur
 
 <div style="text-align:center"><img src="/images/cobas_e_411_analyzer1.png" /></div>
 
-The cobas e 411 analyzer is designed for both quantitative and qualitative in vitro determination of a wide range of test by the use of electrochemiluminescence (ECL) technology. Maintenance procedures are crucial for the device and make sure you performe them while the operating system is off. These maintenance recommendations are based on using the system eight hours per day, five days per week. You may adjust your maintenance frequency based on your laboratory's actual usage. 
+The cobas e 411 analyzer is designed for both quantitative and qualitative in vitro determination of a wide range of test by the use of electrochemiluminescence (ECL) technology. Maintenance procedures are crucial for the device and make sure you performe them while the operating system is off. These maintenance recommendations are based on using the system eight hours per day, five days per week. You may adjust your maintenance frequency based on your laboratory's actual usage.
 
 
 ## Daily maintenance: 
@@ -49,11 +49,7 @@ Check the inner compartment or system reagent compartments and wipe off any comp
 
 <div style="text-align:center"><img src="/images/cobas_e_411_analyzer4.jpg" /></div>
 
-
-
-
 ## Weekly maintenance
-
 
 ### A) Clean sipper probe
 

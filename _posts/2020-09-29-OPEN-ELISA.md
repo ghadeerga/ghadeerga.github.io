@@ -1,9 +1,6 @@
 ---
-
 layout: post
-
 title: OPEN ELISA 
-
 ---
 
 
