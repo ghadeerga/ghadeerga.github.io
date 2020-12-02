@@ -3,11 +3,12 @@ layout: post
 title: Guide to Autoimmune Testing
 ---
 
-"Guide to Autoimmune Testing" is One of the most beautiful books in explaining Autoimmune diseases in amazingly straight forward way. Diagnosis tests are well presented and ordered alphabetically. You can get any information quickly without wasting time searching online or in references. 
+"Guide to Autoimmune Testing" is one of the most beautiful books in explaining autoimmune diseases in amazingly straight forward way. Diagnosis tests are well presented and ordered alphabetically. You can get any information quickly without wasting time searching online or in references. 
 
 Each test contains the method, Indication, reference ranges and how positive answer result is interpreted.
 
 Example for one of the tests mentioned in this book is **ANA screen(HEp-2 cells)**
+
 
 **Indication**
 
@@ -38,7 +39,7 @@ In addition, it contains an explanation of the most important **methods** used i
 3. Capture ELISA
 4. Immunoblot
 
-At the end of the book, there are three tables the summarize the most important tests for “Systemic diseases and rheumatology”, “Gastroenterology and endocrinology” and “Neurology and other diseases.
+At the end of the book, there are three tables summarizing the most important tests for “Systemic diseases and Rheumatology”, “Gastroenterology and Endocrinology” and “Neurology and other diseases.
 
 
 [Download](/files/Guide line of autoimmune diseases.pdf)
