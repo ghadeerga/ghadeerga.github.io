@@ -3,7 +3,6 @@ layout: post
 title: OPEN ELISA 
 ---
 
-
 OPEN ELISA assays are performed on standardized plates containing(96 Wells)
 
 1. After receiving the samples,  insert them into a Centrifuge device for sample separation, but in  case of QF assays the samples are placed in the incubator as soon as they are withdrawn for 24 hours

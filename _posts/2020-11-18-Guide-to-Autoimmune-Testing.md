@@ -3,7 +3,7 @@ layout: post
 title: Guide to Autoimmune Testing
 ---
 
-"Guide to Autoimmune Testing" is one of the most beautiful books in explaining autoimmune diseases in amazingly straight forward way. Diagnosis tests are well presented and ordered alphabetically. You can get any information quickly without wasting time searching online or in references. 
+**Guide to Autoimmune Testing** is one of the most beautiful books in explaining autoimmune diseases in amazingly straight forward way. Diagnosis tests are well presented and ordered alphabetically. You can get any information quickly without wasting time searching online or in references. 
 
 Each test contains the method, Indication, reference ranges and how positive answer result is interpreted.
 
