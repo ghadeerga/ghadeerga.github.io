@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to write malaria report
+title: How to write a malaria report
 ---
 
 You can diagnosis  malaria from thick and thin area of the blood smears (gold standard of malaria diagnosis)
