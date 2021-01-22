@@ -26,6 +26,3 @@ Type of **plasmodium** species:
 2. **Plasmodium vivax**: Rarely more than 2% of cells infected. Trophozoites, schizonts and gametocytes usually seen
 3. **Plasmodium malariae**: Rarely more than 1% of cells infected. Trophozoites, schizonts and gametocytes usually seen
 4. **Plasmodium ovale** : Trophozoites, schizonts and gametocytes usually seen
-
-
-
