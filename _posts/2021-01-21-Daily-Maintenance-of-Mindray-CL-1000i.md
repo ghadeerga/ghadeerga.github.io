@@ -81,7 +81,7 @@ Consumables include sample diluent, substrate, cuvette, container, probe wash so
 You are allowed to do this maintenance procedure in any system status
 Select Reagent – Consumable Management, or select Reagent - Reagent Overview.
 
-![Reagent_Overview](/images/Reagent Overview.jpg)
+![Reagent_Overview](/images/Reagent Overview.png)
 
 As you see in the picture above 
 
