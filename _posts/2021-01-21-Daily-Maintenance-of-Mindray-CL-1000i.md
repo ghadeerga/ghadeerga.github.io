@@ -86,7 +86,7 @@ Select Reagent – Consumable Management, or select Reagent - Reagent Overview.
 As you see in the picture above 
 
 - Two substrate bottle, the volume of each should be 300
-- Two tray cuvettes, each should contain 88
+- Two tray cuvettes, each should contain 85
 - Waste bin, 188 when it is empty
 - Wash solution, 100%  when it is full
 - Waste tank has a sensor, Ok mark
@@ -116,7 +116,7 @@ Select OK to refresh the current date as the performance date
 
 Abnormal probe may influence the measurement performance and result in inaccurate results. Prior to measurements every day, check the probe for stains and crystals, and check if the wash well is clogged
 
-Make sure that the system status is Incubation or Standby; 
+Make sure that the system status is Incubation or Standby
 
 Open the upper protective shield
 
@@ -130,7 +130,7 @@ Select Continue
 
 ![clearn_Probe_exterior](/images/probe_exterior.png)
 
-#### D. Daily Clean Daily
+#### D. Daily Clean 
 
 Clean function is used to clean the probe, and dispersion aspirate probes to keep good performance, avoid probe clogging and reduce influence of the probe carryover on the test result. 3.1ml concentrated wash solution is consumed during Daily Clean process
 
