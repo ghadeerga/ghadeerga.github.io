@@ -2,13 +2,17 @@ In this articel I will talk about how to use and perform the daily maintenance o
 ![Maglumi Snibe 2000](/images/Maglumi-2000.jpg)
 There are more than 120 tests available on this device and 15 places for reagents inside the device. The device is equipped with a refrigerator at a temperature of 10-15 degrees
 <br>
+<br>
 ![area reagents of snibe-2000.png](/images/area-reagents-of snibe-2000.png)
 
 You can enter more than 40 pieces of Cuvatte of Snibe_MAGLUMI_2000 at the same time
 <br>
+<br>
 ![reaction-modules-of-snibe-2000](/images/reaction-modules-of-snibe-2000.png)
 <br>
+<br>
 Entering of samples is done by placing the entire tube if the quantity is large or if the sample amount is small. We separate it into the eppendorf tube and put it in a glass tube filled with water for the electrical conduction process.
+<br>
 <br>
 
 **How to operate Snibe_MAGLUMI_2000**
@@ -16,12 +20,15 @@ Entering of samples is done by placing the entire tube if the quantity is large 
 
 -Each reagent contains a magnetic micro-bead, so when introducing a new reagent, wait 30 mines for the Mixing process for the magnetic micro-bead.
 <br>
+<br>
 ![magnetic-micro-bead-of-snibe](/images/magnetic-micro-bead-of-snibe.png)
 
 
 -Each reagent contains a barcode with RF ID technology through which the device reads the name of the reagent and its information and transfers it to an automatic software
 <br>
+<br>
 ![RF-ID-of-snibe-2000](/images/RF-ID-of-snibe-2000.png)
+<br>
 <br>
 **We do daily maintenance:**
 
@@ -33,6 +40,7 @@ Entering of samples is done by placing the entire tube if the quantity is large 
   Washer to 3
   Chamber to 10 as in the picture below
   <br>
+  <br>
   ![mintenance](/images/mintenance.jpg)
   
   When we need to do the calibration of any reagent, cal comes combined with the reagent itself.
@@ -43,20 +51,25 @@ To reject it: we press Reject.
 
 -System Liquid -Wash buffer- is prepared in 10 L of DW and the device comes with three boxes of 10 L size, because when prepared, it needs to stay for 6 hours before using it to set the PH
 <br>
+<br>
 ![Wash-buffer(System-Liquid)](/images/Wash-buffer(System-Liquid).png)
+<br>
 <br>
 
 -To make the dilution of any test:
  choose the test and then press dilution then Save
+ <br>
  <br>
 
 **The device that consists of: **
 
 1. Substrate reagents (Starter1 and Starter 2) When one of them is finished, we must exchange the two together because the device is withdrawn from the two at the same time
  <br>
+ <br>
 ![Substrate-reagents-(Starter 1.Starter 2)of-snib](/images/Substrate-reagents-(Starter1.Starter 2)of-snib.png)
 
 2. Reaction Module (Cuvatte) you can load them when the device works
+<br>
 <br>
 ![Reaction-Module(Cuvatte)-of-snibe  (2)](/images/Reaction-Module(Cuvatte)-of-snibe  (2).png)
 
@@ -68,6 +81,7 @@ LC (Light Check) is done in two cases:
 2. In the case of changing the Starter reagent with a new lot number. 
   You should put the LC in the position 11 or 12
   <br>
+  <br>
   
 ![Rak-sample-of-snibe-2000](/images/Rak-sample-of-snibe-2000.png)
 <br>
@@ -78,6 +92,7 @@ LC (Light Check) is done in two cases:
   and it must be emptied
   there is a sensor that senses that it has been emptied 
   we do not need to clear it from the system unlike Cuvatte Solid waste we need after emptying it to reset it from the system if we don't reset, it can be Causes sudden interruption of work
+  <br>
   <br>
   ![Reset-Reaction-Modul-(Cuvatte)](/images/Reset-Reaction-Modul-(Cuvatte).jpg)
   
