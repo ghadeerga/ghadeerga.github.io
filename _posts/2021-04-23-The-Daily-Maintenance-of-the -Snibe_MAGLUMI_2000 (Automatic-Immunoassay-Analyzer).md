@@ -16,6 +16,7 @@ Entering of samples is done by placing the entire tube if the quantity is large 
 <br>
 
 **How to operate Snibe_MAGLUMI_2000**
+<br>
 -We turn on the device then program on the desktop, there is a box under the device name and password number( Initialization with cuvatte (s) clear) We press it when the device stops suddenly and it resets the device if the Cuvatte is jammed or stopped For any reason
 
 -Each reagent contains a magnetic micro-bead, so when introducing a new reagent, wait 30 mines for the Mixing process for the magnetic micro-bead.
