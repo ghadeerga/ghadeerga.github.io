@@ -1,6 +1,7 @@
 In this articel I will talk about how to use and perform the daily maintenance of the **Snibe_MAGLUMI_2000** (Automatic immunoassay analyzer) for Hormones ,viruses and torch tests. Device that is easy to use from other devices
-!
+![Maglumi Snibe 2000](/images/Maglumi-2000.jpg)
 There are more than 120 tests available on this device and 15 places for reagents inside the device. The device is equipped with a refrigerator at a temperature of 10-15 degrees
+![area reagents of snibe-2000.png](/images/area-reagents-of-snibe-2000.png)
 
 You can enter more than 40 pieces of Cuvatte of Snibe_MAGLUMI_2000 at the same time
 
