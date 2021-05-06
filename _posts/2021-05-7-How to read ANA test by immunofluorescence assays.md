@@ -1,5 +1,9 @@
 In this article I will take about **ANA** (Antinuclear antibodies test) and the patterns of ANA.
 ANA: It is one of the most important tests for diagnosing Autoimmune diseases, after reading this article you will be able to distinguish types of patterns and the most important diseases associated with each type in a simplified way.
+<br>
+
+![HEp2_ANA_patterns.png](/images/HEp2_ANA_patterns.png)
+
 
 To begin with, these tests are explained by IFA Indirect immunofluorescence assays (The gold standard of diagnosis Autoimmune diseases) which is by preparing the slides that fixed by HEp-2 tissue, and then reading them under a fluorescent microscope
 
@@ -28,6 +32,10 @@ To begin with, these tests are explained by IFA Indirect immunofluorescence assa
 9. Apply the glycerol mounting media and 22 X 50 mm glass coverslip.
   
 10. Observe the reactivity under fluorescence microscopy using 20-40X magnification.
+  
+![Read.ANA.test.Immunoflurecent2](/images/ANA_immunoflurecent/Read.ANA.test.Immunoflurecent2.png)
+  
+  
   
   image.............
   
