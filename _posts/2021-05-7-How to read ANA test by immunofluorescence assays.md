@@ -2,12 +2,12 @@ In this article I will take about **ANA** (Antinuclear antibodies test) and the 
 ANA: It is one of the most important tests for diagnosing Autoimmune diseases, after reading this article you will be able to distinguish types of patterns and the most important diseases associated with each type in a simplified way.
 <br>
 
-![HEp2_ANA_patterns.png](/images/HEp2_ANA_patterns.png)
+![HEp2 ANA](/images/ANA_immunoflurecent/HEp2_ANA_patterns.png)
 
 
 To begin with, these tests are explained by IFA Indirect immunofluorescence assays (The gold standard of diagnosis Autoimmune diseases) which is by preparing the slides that fixed by HEp-2 tissue, and then reading them under a fluorescent microscope
 
-<
+<br>
 **Procedure of preparation ANA test slides:**
 
 1. For qualitative IgG antibody determination, prepare a 1:40 screening dilution of each test sample in PBS. Prepare all dilutions in a minimum volume of 0.10 ml with PBS as the diluent.
@@ -32,12 +32,11 @@ To begin with, these tests are explained by IFA Indirect immunofluorescence assa
 9. Apply the glycerol mounting media and 22 X 50 mm glass coverslip.
   
 10. Observe the reactivity under fluorescence microscopy using 20-40X magnification.
+ <br>
+ 
   
-![Read.ANA.test.Immunoflurecent2](/images/ANA_immunoflurecent/Read.ANA.test.Immunoflurecent2.png)
-  
-  
-  
-  image.............
+![Read.ANA.test.Immunoflurecent](/images/ANA_immunoflurecent/Read.ANA.test.Immunoflurecent.jpg)
+  <br>
   
 
 For best results, examine slides immediately after completion of the test. To obtain equivalent results, seal slides or keep humidified to minimize dehydration of mounting medium, store in dark at 2-8°C, and read within three days. 
@@ -45,7 +44,12 @@ Positive reactivity may range in fluorescence intensity from brilliant to weak. 
 
 4+ (brilliant), 3+ (bright), 2+ (moderate) and 1+ (weak).
 
-image..................
+<br>
+
+![](/images/ANA_immunoflurecent/Read_ANA_immunoflurecent.png)
+<br>
+<br>
+
 
 **Dilution of ANA test:**
 -The dilution buffer to reduce nonspecific binding of serum globulins to the HEp-2 cells.
@@ -66,19 +70,30 @@ because HEp-2 cells have many advantages over rodent tissues:
 4.The cell monolayer ensures that all nuclei are visible.
 
 5.Cell division rates are higher so that antigens produced only in cell division are easily located eg. centromere and mitotic spindle patterns.
+<br>
 
-image......................
+![mitotic cell](/images/ANA_immunoflurecent/Metaphase_in_mitotic.png)
+
 
 6.There is no obscuring of the intercellular matrix.
 
 7.Antigen distribution is uniform.
+<br>
+
 Over 35 different IFA patterns, both nuclear and cytoplasmic, have been described.
-Image…………
+<br>
+<br>
+
+![Nucleus_and_Cytoplasm](/images/ANA_immunoflurecent/Nucleus_and_Cytoplasm.png)
+<br>
 
 **Comments on interpretation**:
 
 ANA patterns are only indicative and the specificity of the autoantibody must always be confirmed by other techniques, such as CIE, immunoblotting, EIA etc. 
-image...............
+<br>
+<br>
+![diagnosis_Autoimmune_diseases](/images/ANA_immunoflurecent/diagnosis_Autoimmune_diseases.png)
+<br>
 
 **Interpretation of result (Titer-Dilution):**
 **Negative:** Normal titer less than 1/40 dilution
@@ -87,15 +102,13 @@ image...............
 **Low positive:** (&lt; 1/80) not likely to be significant
 **High positive** ( &gt; 1/320) significant
 
-Other type of tissue like Rodent liver, kidney, stomach sections are useful for the detection of anti-mitochondrial antibodies due to the distinct staining pattern on each tissue.
 
-It is called **AMA** in Rodent liver, kidney, stomach sections and **Mitochondrial pattern** in HEp2
 
-This type of pattern appear in patients with primary biliary cirrhosis (PBC), an M2 ELISA should be used to confirm a positive test.
-…………..
 
 There are four basic ANA patterns, and the Speckeld pattern take 40-70% (most common pattern and less specific one) 
-We start with the first type of patterns 
+We start with the first type of patterns
+![ANA.patterns](/images/ANA_immunoflurecent/ANA.patterns.png)
+
 1-[Homogeneous pattern ]()
 Uniform diffuse fluorescence staining of the entire nucleus in interphase cells
 It is associated with the diagnosis of Systemic lupus erythematosus ([SLE]()) Antibodies against ssDNA / dsDNA and histone antigens.
@@ -122,6 +135,16 @@ It is associated with the diagnosis of CREST, and we notice the presence of smal
 Uniform diffuse nuclear staining similar to homogeneous staining with greater intensity at its outer rim
 
 **a chromosome in the stage of metaphase and telophase of mitotic cell is negative**
+<br>
+Other type of tissue like Rodent liver, kidney, stomach sections are useful for the detection of anti-mitochondrial antibodies due to the distinct staining pattern on each tissue.
+
+It is called **AMA** in Rodent liver, kidney, stomach sections and **Mitochondrial pattern** in HEp2
+
+This type of pattern appear in patients with primary biliary cirrhosis (PBC), an M2 ELISA should be used to confirm a positive test.
+<br>
+<br>
+![Mitochondrial](/images/ANA_immunoflurecent/Mitochondrial.png)
+<br>
 
 **Mix patterns:**
 patient sera frequently contain several different autoantibodies that result in mixed patterns.
