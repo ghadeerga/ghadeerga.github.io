@@ -99,8 +99,8 @@ ANA patterns are only indicative and the specificity of the autoantibody must al
 **Negative:** Normal titer less than 1/40 dilution
 (Cut-off may be increase to 1/160 depend to the laboratory)
 **Positive:** Normal patient without underlying disease: 3-30%
-**Low positive:** (&lt; 1/80) not likely to be significant
-**High positive** ( &gt; 1/320) significant
+**Low positive:** (> 1/80) not likely to be significant
+**High positive** ( > 1/320) significant
 
 
 
@@ -110,18 +110,28 @@ We start with the first type of patterns
 ![ANA.patterns](/images/ANA_immunoflurecent/ANA.patterns.png)
 
 1-[Homogeneous pattern ]()
+
 Uniform diffuse fluorescence staining of the entire nucleus in interphase cells
-It is associated with the diagnosis of Systemic lupus erythematosus ([SLE]()) Antibodies against ssDNA / dsDNA and histone antigens.
+It is associated with the diagnosis of Systemic lupus erythematosus [SLE] Antibodies against ssDNA / dsDNA and histone antigens.
+
+![Homogeneous_pattern](/images/ANA_immunoflurecent/Homogeneous_pattern.png)
+
 
 **a chromosome in the stage of metaphase and telophase of mitotic cell is positive**
 
-image..................
+
+
+![Metaphase_in_homogeneous_pattern](/images/ANA_immunoflurecent/Metaphase_in_homogeneous_pattern.png)
+
+
 2- [Speckeld pattern ]()
 It is associated with the diagnosis of Sjogren's syndrome, SLE and mixed connective tissue disorders (MCTD) Antibodies to Sm, RNP, SS-A / SS-B, PM-1, and PCNA antigen.
 
+![Speckeld_pattern](/images/ANA_immunoflurecent/Speckeld_pattern.png)
+
+
 **a chromosome in the stage of metaphase and telophase of mitotic cell is negative**
 
-.................
 
 3-[ Nuleolar pattern]()
 
