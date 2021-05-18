@@ -137,9 +137,16 @@ It is associated with the diagnosis of Sjogren's syndrome, SLE and mixed connect
 
 It is associated with the diagnosis of Systemic sclerosis (SS) And some cases of SLE, and we observe a nucleoid stain inside the nucleus with the presence of a chromosome in the Metaphase of mitotic cell
 
+
+
+![Necleolar_pattern](/images/ANA_immunoflurecent/Necleolar_pattern.png)
+
+
 4- [Centromere pattern ]()
 
 It is associated with the diagnosis of CREST, and we notice the presence of small points extending on the nucleus, up to 90 points, with the presence of a chromosome in the stage of metaphase and telophase of mitotic cell
+
+![Centromere pattern ](images/ANA_immunoflurecent/Centromere_pattern.png)
 
 5-[ Rim pattern]()
 Uniform diffuse nuclear staining similar to homogeneous staining with greater intensity at its outer rim
@@ -168,9 +175,12 @@ Mixed ANA patterns occur when patient sera contain more than one autoantibody sp
 
 An illustration to find out the correct place to read the slide, the red place we do not read in it because the distribution and shape of the cells are not correct
 
+![Read.ANA.test.Immunoflurecent](/images/ANA_immunoflurecent/Read.ANA.test.Immunoflurecent2.jpg)
 .......................
 
 After knowing the type of pattern, survive to write the result, the estimation of the titer starts from 1/80, and according to the brightness, the stronger the pattern increases. This beautiful picture shows the gradation of lighting and writing a report on its basis
+![Dilution_of_ANA_test](/images/ANA_immunoflurecent/Dilution_of_ANA_test.jpg)
+
 
 .........................
 
