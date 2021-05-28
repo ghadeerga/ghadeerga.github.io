@@ -168,6 +168,14 @@ This type of pattern appear in patients with primary biliary cirrhosis (PBC), an
 ![Mitochondrial](/images/ANA_immunoflurecent/Mitochondrial.png)
 <br>
 
+Other patterns:
+<br>
+**Golgi apparatus**
+
+![Golgi apparatus](/images/ANA_immunoflurecent/StainingoftheGolgiapparatus..jpg)
+
+<br>
+
 **Mix patterns:**
 patient sera frequently contain several different autoantibodies that result in mixed patterns.
 Single serum may produce a mixed patterns 
