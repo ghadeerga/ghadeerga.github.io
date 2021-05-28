@@ -1,3 +1,8 @@
+---
+layout: post
+title: How to read ANA test by immunofluorescence assays
+---
+
 In this article I will take about **ANA** (Antinuclear antibodies test) and the patterns of ANA.
 ANA: It is one of the most important tests for diagnosing Autoimmune diseases, after reading this article you will be able to distinguish types of patterns and the most important diseases associated with each type in a simplified way.
 <br>
