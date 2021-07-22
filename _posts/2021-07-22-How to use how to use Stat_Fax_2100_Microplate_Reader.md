@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  how to use Stat_Fax_2100_Microplate_Reader
+title:  How to use Stat_Fax_2100_Microplate_Reader
 ---
 
 
