@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to read ANA test by immunofluorescence assays
+title: How to read ANA test by Immunofluorescence assays
 ---
 
 In this article I will take about **ANA** (Antinuclear antibodies test) and the patterns of ANA.
