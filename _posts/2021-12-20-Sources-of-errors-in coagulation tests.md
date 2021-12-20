@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sources of error results in coagulation tests
+title: Sources of errors in coagulation tests
 ---
 
 <br>
